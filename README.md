@@ -18,8 +18,8 @@ This WebSocket-based chat server allows users to join rooms, send messages, and 
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/chat-server.git
-   cd chat-server
+   git clone https://github.com/fraxard/chatify-terminal.git
+   cd chatify-terminal
    ```
 2. Install dependencies:
    ```sh
