@@ -29,6 +29,10 @@ This WebSocket-based chat server allows users to join rooms, send messages, and 
    ```sh
    node server.js
    ```
+4. Connect to the server:
+   ```sh
+   npx wscat -c ws://localhost:3000
+   ```
 
 ## Commands
 ### User Commands
